@@ -1,0 +1,18 @@
+.scroll-view-x{
+	width:100%;
+  	white-space: nowrap;
+}
+.scroll-view-x-item{
+  	display: inline-block;
+  	width: 100%;
+  	height: 200px;
+}
+#red{
+	background: red;
+}
+#blue{
+	background: blue;
+}
+#green{
+	background: green;
+}

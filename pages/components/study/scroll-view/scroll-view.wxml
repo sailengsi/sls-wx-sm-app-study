@@ -1,0 +1,7 @@
+<view class="container">
+    <scroll-view class="scroll-view-x" scroll-x="true">
+	    <view id="green" class="scroll-view-x-item bc_green"></view>
+	    <view id="red"  class="scroll-view-x-item bc_red"></view>
+  	</scroll-view>
+</view>
+

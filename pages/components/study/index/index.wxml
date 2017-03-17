@@ -1,0 +1,12 @@
+<view class="container">
+    <navigator url="../route/route">
+        路由学习
+    </navigator>
+    <navigator url="../scroll-view/scroll-view">
+        scroll-view
+    </navigator>
+    <navigator url="../action-sheet/action-sheet">
+        action_sheet
+    </navigator>
+</view>
+

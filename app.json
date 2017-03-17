@@ -1,0 +1,42 @@
+{
+    "pages": [
+
+        "pages/components/study/action-sheet/action-sheet",
+        "pages/components/study/index/index",
+        "pages/components/study/route/route",
+        "pages/components/study/scroll-view/scroll-view",
+
+        "pages/components/test/index/index",
+
+        "pages/components/demo/index/index"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "",
+        "navigationBarTextStyle": "black"
+    },
+    "tabBar": {
+        "color": "#dddddd",
+        "selectedColor": "#3cc51f",
+        "borderStyle": "black",
+        "backgroundColor": "#ffffff",
+        "list": [{
+            "pagePath": "pages/components/study/index/index",
+            "iconPath": "image/icon_component.png",
+            "selectedIconPath": "image/icon_component_HL.png",
+            "text": "学习"
+        }, {
+            "pagePath": "pages/components/test/index/index",
+            "iconPath": "image/icon_component.png",
+            "selectedIconPath": "image/icon_component_HL.png",
+            "text": "测试"
+        }, {
+            "pagePath": "pages/components/demo/index/index",
+            "iconPath": "image/icon_component.png",
+            "selectedIconPath": "image/icon_component_HL.png",
+            "text": "Demo"
+        }]
+    },
+    "debug": true
+}
